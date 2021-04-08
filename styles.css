@@ -1,3 +1,25 @@
-body{
-    background-image: url("/Assets/background-img.jfif");
+body {
+    background-image: url("Assets/background-img.jpg");
+    background-color: aliceblue;
+}
+
+#logo {
+    height: 50px;
+    display: flex;
+    margin: auto;
+}
+
+#size-slide {
+    height: 450px;
+    width: 400px;
+}
+
+.carousel {
+    width: 600px;
+    display: flex;
+    margin: auto;
+}
+
+#ca-margenes {
+    margin-top: 50px;
 }
